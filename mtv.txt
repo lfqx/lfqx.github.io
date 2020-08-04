@@ -1,4 +1,4 @@
-MV-虹霏影院
+MKV-虹霏影院,#genre#
 3号[853*480],http://em.21dtv.com/songs/60110002.mkv
 2号[853*480],http://em.21dtv.com/songs/60110001.mkv
 1号[720*540],http://em.21dtv.com/songs/60110000.mkv
