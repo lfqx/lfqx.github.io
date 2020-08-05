@@ -1,5 +1,5 @@
 虹霏影院,#genre#
-关注永不失联,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8#http://219.153.252.50/PLTV/88888888/224/3221225555/chunklist.m3u8#http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8#http://120.221.5.113:8089/PLTV/88888888/224/3221225949/index.m3u8#http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8#http://cstvpull.live.wscdns.com/live/xiamen1.flv#http://yztv.wshls.homecdn.com/live/4e2f.flv?t=1594705681&k=b1cd3bec7a665cbda24f116a6074b54f
+关注永不失联,http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8#http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8#http://219.153.252.50/PLTV/88888888/224/3221225555/chunklist.m3u8#http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8#http://120.221.5.113:8089/PLTV/88888888/224/3221225949/index.m3u8#http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8#http://cstvpull.live.wscdns.com/live/xiamen1.flv#http://yztv.wshls.homecdn.com/live/4e2f.flv?t=1594705681&k=b1cd3bec7a665cbda24f116a6074b54f
 
 
 央视频道,#genre#
